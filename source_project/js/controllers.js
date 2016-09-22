@@ -8,31 +8,31 @@ angular.module ('app.controllers', [])
   .controller ('FindCtrl',["$scope", function ($scope, $ionicLoading, $compile) {
 
 
-      function initialize() {
-
-        var myLatLng = {lat: 43.07493, lng: -89.381388};
-
-        var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: 16,
-          mapTypeControl: false,
-
-          streetViewControl: false,
-          center: myLatLng
-        });
-
-        var marker = new google.maps.Marker({
-          position: myLatLng,
-          map: map,
-          title: 'Xscape'
-
-        });
-      }
-      google.maps.event.addDomListener(window, 'load', initialize);
-
-
-
-
-    //});
+    //   function initialize() {
+    //
+    //   //   var myLatLng = {lat: 43.07493, lng: -89.381388};
+    //   //
+    //   //   var map = new google.maps.Map(document.getElementById('map'), {
+    //   //     zoom: 16,
+    //   //     mapTypeControl: false,
+    //   //
+    //   //     streetViewControl: false,
+    //   //     center: myLatLng
+    //   //   });
+    //   //
+    //   //   var marker = new google.maps.Marker({
+    //   //     position: myLatLng,
+    //   //     map: map,
+    //   //     title: 'Xscape'
+    //   //
+    //   //   });
+    //   // }
+    //   // google.maps.event.addDomListener(window, 'load', initialize);
+    //
+    //
+    //
+    //
+    // //});
   }])
 
 
@@ -46,9 +46,16 @@ angular.module ('app.controllers', [])
 
 
   }])
-  .controller ('SantaCtrl',["$scope", function ($scope) {
+  .controller ('SantaCtrl',["$scope","$timeout", function ($scope,$timeout) {
 
+    $scope.$on('$ionicView.loaded', function() {
+      ionic.Platform.ready( function() {
+        $timeout(function () {
+          if(navigator && navigator.splashscreen) navigator.splashscreen.hide();
+        },500)
 
+      });
+    });
     console.log("santa ctrl called");
 
   }])
@@ -120,7 +127,7 @@ angular.module ('app.controllers', [])
     $scope.toggleMe=function($event,bell){
       console.log($event.currentTarget);
       angular.element($event.currentTarget).attr('src',bell.active);
-     
+
 
     }
 
