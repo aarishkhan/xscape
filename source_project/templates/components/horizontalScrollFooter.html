@@ -1,0 +1,15 @@
+<ion-footer-bar class="tsb-icons bar bar-footer no-padding footer-main" style="">
+  <div class="tab-nav tabs  tabs-font-color-white has-tabs tsb-ic-wrp">
+    <ion-scroll direction="x" class="tsb-hscroll col-100" style="" >
+
+      <a ng-repeat="viewData in viewsData" ng-class="{'tab-item-active':activeStateName==viewData.viewUrl}" ng-click="goToState('{{viewData.viewUrl}}')" class="tab-item {{}} tab-item-custom">
+        <!-- ngIf: badge --><!-- ngIf: getIcon() --><i class="icon icon-footer {{viewData.tabIcon}}" ></i>
+        <!-- end ngIf: getIcon() --><span class="tab-title">{{viewData.tabTitle}}</span>
+      </a>
+
+    </ion-scroll>
+  </div>
+</ion-footer-bar>
+
+
+

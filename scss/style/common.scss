@@ -1,0 +1,222 @@
+//icons class for app
+
+@import "variables";
+
+.height-occupy{
+  >.scroll  {
+    height: 100%;
+  }
+}
+
+
+.center-by-left{
+  left:50%;
+  transform: translateX(-50%);
+}
+
+.absolute-bottom-20-percent{
+  bottom: 15%;
+}
+
+.height-50-percent{
+  height: 50%;
+}
+
+.height-42-percent{
+  height: 42%;
+}
+
+.height-100-percent{
+  height: 100%;
+}
+
+.height-80-percent{
+  height: 80%;
+}
+
+.footer-main {
+  height: $footer-height;
+  border-top:none;
+
+  .tab-nav{
+    &.tabs{
+      padding-top: 0px;
+      border: 0px solid transparent;
+      height: 100%;
+      background: url(../img/navigation_bar.png),url(../img/footer-background-repeat.png);
+      background-size:auto 100% ,auto 100%;
+      background-repeat: no-repeat ,repeat-x;
+      background-position: left ,right;
+
+    }
+    .scroll{
+      padding-top: 10px;
+
+    }
+    a,a  span{
+      color: #da2e86;
+      line-height: 15px;
+      font-size: 12px;
+    }
+
+    .tab-item-custom{
+      color: white;
+
+      /* -webkit-flex: 1; */
+      -moz-box-flex: 1;
+      -moz-flex: 1;
+      -ms-flex: 1;
+      /* flex: 1; */
+      display: inline-block;
+      overflow: hidden;
+      min-width: 80px;
+      width: 25%;
+      max-width: 100px;
+      height: 100%;
+      color: inherit;
+      text-align: center;
+      text-decoration: none;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      font-weight: 400;
+      font-size: 14px;
+      font-family: "-apple-system", "Helvetica Neue", "Roboto", "Segoe UI", sans-serif;
+      opacity: 1;
+    }
+  }
+
+  .icon-footer {
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+
+    &.icon-advent {
+      background-image: url("../img/advent_icon.png");
+
+    }
+
+    &.icon-faq {
+      background-image: url("../img/faq_icon.png");
+
+    }
+
+    &.icon-find-us {
+      background-image: url("../img/find_usicon.png");
+
+    }
+
+    &.icon-meet-santa {
+      background-image: url("../img/meet_santaicon.png");
+
+    }
+
+    &.icon-selfie {
+      background-image: url("../img/santa_selfieicon.png");
+
+    }
+
+    &.icon-sleigh-ride {
+      background-image: url("../img/sleigh_rideicon.png");
+
+    }
+
+    &.icon-win {
+      background-image: url("../img/win_icon.png");
+
+    }
+
+  }
+}
+
+.has-footer {
+  bottom: $footer-height - 2px;
+}
+
+.wood-background{
+
+  background-size: cover;
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+  background-image: url(../img/background.png);
+}
+.advent-background{
+  background-size: cover;
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+  background-image: url(../img/advent_background.png);
+
+}
+
+.tab-item .icon {
+  height: 38px;
+}
+
+.platform-ios {
+  .header-main {
+
+
+    .back-button{
+      .icon:before{
+        line-height: 25px;
+      }
+      height: 0px;
+      line-height: inherit;
+    }
+
+    .title {
+      &.header-item {
+        line-height: 30px;
+      }
+    }
+  }
+}
+
+.platform-android {
+  .header-main {
+
+
+    .back-button{
+      .icon:before{
+
+      }
+
+    }
+
+    .title {
+      &.header-item {
+        line-height: $header-height;
+      }
+    }
+  }
+}
+
+.header-main{
+
+  height: $header-height;
+
+  background: url(../img/beads.png),url(../img/flakes.png), url(../img/header-background-gradient.png);
+  background-size: 45px auto ,auto 104%, auto 100%;
+  background-repeat: repeat-x,no-repeat, repeat-x;
+  background-position: 100% 97% ,right , left top;
+  /* background-color: darkred; */
+  ///background: -webkit-linear-gradient(left,#0e0403, #f00);
+  //background: -o-linear-gradient(right, #0e0403,#f00);
+  //background: -moz-linear-gradient(right, #0e0403, #f00);
+
+
+    .title{
+      color: white;
+    }
+}
+
+.has-header{
+  top:$header-height - 2px;
+}
+
+.bar-header .header-item{
+  font-size: 20px;
+  font-weight: normal;
+  line-height: $header-height;
+}
+
+

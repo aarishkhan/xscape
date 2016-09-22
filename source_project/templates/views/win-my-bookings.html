@@ -1,0 +1,17 @@
+<ion-view view-title="My Bookings">
+  <ion-content class="bookings wood-background" >
+    <ion-list>
+      <ion-item class="item-remove-animate select-time-list item-padding-left-10 item-avatar item-icon-right" ng-repeat="booking in bookings" type="item-text-wrap" href="#/tab/confirmBooking/{{time}}">
+
+       <div class="padding-vertical ">{{booking}}</div>
+       <i class="icon ion-chevron-right icon-accessory red-gradient-font-chevron" style="font-size:30px;">
+        </i>
+
+      </ion-item>
+
+
+    </ion-list>
+
+
+  </ion-content>
+</ion-view>

@@ -1,0 +1,21 @@
+<ion-view view-title="Advent">
+  <ion-content class="padding advent-date-page advent-background" scroll="false">
+    <div class="row  responsive-sm responsive-md responsive-lg height-100-percent flex-layout">
+      <div class="bow-top"></div>
+
+      <div class="large-advent-date-container">
+        <img class="large-advent-date-img" ng-src="img/box_{{selectedAdventDate}}large.png">
+      </div>
+
+
+      <div class="bells-container">
+        <img ng-src="{{bell.inActive}}" ng-click="toggleMe($event,bell);" ng-repeat="bell in bells"  class="bell">
+
+      </div>
+
+
+
+    </div>
+  </ion-content>
+</ion-view>
+

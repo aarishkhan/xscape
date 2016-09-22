@@ -1,0 +1,13 @@
+{
+  "name": "christmasApp",
+  "app_id": "",
+  "gulpStartupTasks": [
+    "sass",
+    "watch",
+    "watch-style-sass"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/lib/**/*"
+  ]
+}

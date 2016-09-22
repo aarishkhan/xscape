@@ -1,0 +1,17 @@
+<ion-view view-title="Meet Santa">
+  <ion-content class="padding wood-background" scroll="false">
+    <div class="row responsive-md flex-layout height-100-percent">
+
+        <div pickadate ng-model="date" no-extra-rows  format="dd/mm/yyyy" min-date="'2016-12-01'" max-date="'2016-12-31'"  default-date="'2016-09-01'"></div>
+
+      <div class="col-100 padding-horizontal  absolute-bottom-20-percent  app-round-button select-date">
+        <a class="button-block text-center anchor-nostyle app-button-font-size height-100-percent col-100" href="#/app/selectTime"></a>
+      </div>
+      <div class="col-100 padding-horizontal  absolute-bottom-20-percent  app-round-button view-my-bookings">
+        <a class="button-block text-center anchor-nostyle app-button-font-size height-100-percent col-100" href="#/app/myBookings"></a>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>
+
+
