@@ -38,7 +38,7 @@ angular.module ('starter', ['ionic', 'app.controllers', 'app.directives','templa
     $ionicConfigProvider.backButton.previousTitleText
     (false).text ('');
     $ionicConfigProvider.views.swipeBackEnabled (false);
-    $ionicConfigProvider.views.maxCache (0);
+    $ionicConfigProvider.views.maxCache (8);
     $ionicConfigProvider.views.transition("android");
     $ionicConfigProvider.navBar.alignTitle ("center");
 

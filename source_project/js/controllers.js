@@ -53,10 +53,10 @@ angular.module ('app.controllers', [])
         $timeout(function () {
           if(navigator && navigator.splashscreen) navigator.splashscreen.hide();
         },500)
-
+    
       });
     });
-    console.log("santa ctrl called");
+   
 
   }])
   .controller ('SelectTimeCtrl',["$scope",function ($scope) {

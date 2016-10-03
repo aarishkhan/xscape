@@ -158,6 +158,20 @@
   }
 }
 
+.wood-background {
+
+  background-size: cover;
+  background-repeat: repeat-x;
+  background-attachment: fixed;
+  background-image: url(../img/background.png);
+  .pane{
+    background-color: transparent;
+  }
+}
+
+
+
+
 .advent-background{
   background-size: cover;
   background-repeat: repeat-x;
