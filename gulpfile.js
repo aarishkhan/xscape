@@ -162,7 +162,7 @@ gulp.task('watch', function() {
 
 });
 
-gulp.task('default', ['templatecache', 'ng_annotate', 'useref', 'combine-js']);
+gulp.task('default', []);
 
 
 gulp.task('watch-templates',function(){
