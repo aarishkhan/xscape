@@ -137,7 +137,7 @@ gulp.task('ng_annotate', function (done) {
 gulp.task('combine-uglify', function (done) {
   gulp.src(['./source_project/js/*.js','!./www/js/main.min.js'])
     .pipe(concat("main.min.js"))
-    .pipe(uglify({mangle:true}))
+    //.pipe(uglify({mangle:true}))
     .pipe(gulp.dest('./www/js/'))
     .on('end', done);
 });
