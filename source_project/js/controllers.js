@@ -46,10 +46,17 @@ angular.module ('app.controllers', [])
 
 
   }])
-  .controller ('SantaCtrl',["$scope", function ($scope) {
+  .controller ('SantaCtrl',["$scope","$timeout", function ($scope,$timeout) {
 
-
-    console.log("santa ctrl called");
+    $scope.$on('$ionicView.loaded', function() {
+      ionic.Platform.ready( function() {
+        $timeout(function () {
+          if(navigator && navigator.splashscreen) navigator.splashscreen.hide();
+        },500)
+    
+      });
+    });
+   
 
   }])
   .controller ('SelectTimeCtrl',["$scope",function ($scope) {
@@ -120,7 +127,7 @@ angular.module ('app.controllers', [])
     $scope.toggleMe=function($event,bell){
       console.log($event.currentTarget);
       angular.element($event.currentTarget).attr('src',bell.active);
-     
+
 
     }
 

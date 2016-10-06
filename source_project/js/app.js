@@ -15,9 +15,19 @@ angular.module ('starter', ['ionic', 'app.controllers', 'app.directives','templa
         StatusBar.styleDefault ();
       }
     });
-    
-    
-    
+
+    // $ImageCacheFactory.Cache([
+    //   "img/background.png",
+    //   "img/beads.png",
+    //   "img/navigation_bar.png",
+    //   "img/select_date.png",
+    //   "img/view_mybookings.png"
+    // ]).then(function(){
+    //   console.log("Images done loading!");
+    // },function(failed){
+    //   console.log("An image failed: "+failed);
+    // });
+
 
 
   }])
@@ -28,9 +38,10 @@ angular.module ('starter', ['ionic', 'app.controllers', 'app.directives','templa
     $ionicConfigProvider.backButton.previousTitleText
     (false).text ('');
     $ionicConfigProvider.views.swipeBackEnabled (false);
-    $ionicConfigProvider.views.maxCache (0);
-    $ionicConfigProvider.views.transition("none");
+    $ionicConfigProvider.views.maxCache (8);
+    $ionicConfigProvider.views.transition("android");
     $ionicConfigProvider.navBar.alignTitle ("center");
+
 
     // Ionic uses AngularUI Router which uses the concept of states
     // Learn more here: https://github.com/angular-ui/ui-router

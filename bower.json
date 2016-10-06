@@ -5,6 +5,7 @@
     "ionic": "driftyco/ionic-bower#1.3.1"
   },
   "dependencies": {
-    "angular-pickadate": "https://github.com/restorando/angular-pickadate.git#^1.1.0"
+    "angular-pickadate": "https://github.com/restorando/angular-pickadate.git#^1.1.0",
+    "ionic-ion-imageCacheFactory": "https://github.com/andrewmcgivery/ionic-ion-imageCacheFactory.git#^1.0.2"
   }
 }

@@ -132,13 +132,46 @@
   bottom: $footer-height - 2px;
 }
 
-.wood-background{
+.platform-android{
+  .wood-background {
+
+    background-size: cover;
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    background-image: url(../img/background.png);
+    .pane{
+      background-color: transparent;
+    }
+  }
+}
+.platform-ios{
+  .wood-background {
+
+    background-size:auto 100%;
+    background-repeat: repeat-x;
+    background-position: center ;
+
+    background-image: url(../img/background.png);
+    .pane{
+      background-color: transparent;
+    }
+  }
+}
+
+.wood-background {
 
   background-size: cover;
   background-repeat: repeat-x;
   background-attachment: fixed;
   background-image: url(../img/background.png);
+  .pane{
+    background-color: transparent;
+  }
 }
+
+
+
+
 .advent-background{
   background-size: cover;
   background-repeat: repeat-x;
