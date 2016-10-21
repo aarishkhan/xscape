@@ -25,6 +25,7 @@
     "shelljs": "^0.3.0"
   },
   "cordovaPlugins": [
+    "cordova-pulgin-camera",
     "cordova-plugin-whitelist",
     "cordova-plugin-statusbar",
     "cordova-plugin-device",

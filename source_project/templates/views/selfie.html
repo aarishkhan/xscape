@@ -1,10 +1,9 @@
 <ion-view view-title="Santa Selfie">
   <ion-content class="padding " scroll="false">
-    <div class="row responsive-md">
-      <h1>Santa Selfie page</h1>
+    <div class="button-bar">
+      <a class="button button-positive" type="button" ng-click="takePicture()">Retake</a>
+      <a class="button button-balanced" type="button" ng-click="savePicture()">Save</a>
     </div>
+    <canvas id="image-canvas" width="100%" height="100%"></canvas>
   </ion-content>
 </ion-view>
-
-
-
