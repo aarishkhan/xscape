@@ -1,4 +1,4 @@
-angular.module('app.controllers', ['ngCordova'])
+angular.module('app.controllers', ['ngCordova', 'ngTouch'])
 
   .controller('WinCtrl', ["$scope", function ($scope) {
 
@@ -143,11 +143,12 @@ angular.module('app.controllers', ['ngCordova'])
   .controller('SelfieController', ['$scope', '$ionicPlatform', '$cordovaDevice', '$cordovaCamera', '$cordovaToast', function ($scope, $ionicPlatform, $cordovaDevice, $cordovaCamera, $cordovaToast) {
     $ionicPlatform.ready(function() {
 
-      var canvas = document.getElementById("image-canvas");
-      var context = canvas.getContext("2d");
-      canvas.width = window.innerWidth;
-      canvas.height = window.innerHeight;
+      $scope.imageData = false;
 
+      // initialize the canvas
+      var canvas;
+
+      // option to feed into camera for initialization
       var options = {
         quality: 100, // MAX Quality
         destinationType: Camera.DestinationType.DATA_URL,
@@ -162,9 +163,28 @@ angular.module('app.controllers', ['ngCordova'])
         cameraDirection: 1
       };
 
+      /**
+       * take picture method
+       */
       $scope.takePicture = function() {
         $cordovaCamera.getPicture(options).then(
           function(imageData) {
+            $scope.imageData = imageData ? true : false;
+
+            var isDragging = false;
+            canvas = document.getElementById("image-canvas");
+            var canvasOffset = angular.element("#image-canvas").offset();
+            var context = canvas.getContext("2d");
+
+            // set canvas width and height respective to the device
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+
+            // canvas offset
+            var offsetX = canvasOffset.left;
+            var offsetY = canvasOffset.top;
+
+
             var cameraImage = "data:image/jpeg;base64," + imageData;
             var filterImage = 'img/santa_face.png';
             var backImage, frontImage;
@@ -172,10 +192,15 @@ angular.module('app.controllers', ['ngCordova'])
             var imageObjectArray = [];
             var imagesOk = 0;
 
-            imagesUrls.push(cameraImage);
-            imagesUrls.push(filterImage);
+            var maskItemX = 256;
+            var maskItemY = 256;
+            var canMouseX = 0;
+            var canMouseY = 0;
 
-            loadAllImages();
+            imagesUrls.push(cameraImage); // push taken image in the background
+            imagesUrls.push(filterImage); // push filter image in the front
+
+            loadAllImages(); // load the final result after taking the snapshot
 
             function loadAllImages() {
               imagesUrls.forEach(function(imgUrl) {
@@ -190,13 +215,91 @@ angular.module('app.controllers', ['ngCordova'])
             }
 
             function allImagesLoaded() {
-              if (imagesOK == imagesUrls.length) {
+              if (imagesOk == imagesUrls.length) {
                 backImage = imageObjectArray[0];
                 frontImage = imageObjectArray[1];
-                context.drawImage(backImage, 0, 0, canvas.width, canvas.height);
-                context.drawImage(frontImage, 0, 0, canvas.width, canvas.height);
+                start();
               }
             }
+
+            function start() {
+              context.clearRect(0, 0, canvas.width, canvas.height);
+              context.drawImage(backImage, 0, 0, canvas.width, canvas.height);
+              context.globalCompositeOperation = "source-over";
+              context.drawImage(frontImage, maskItemX, maskItemY);
+
+              // context.drawImage(backImage, 0, 0, canvas.width, canvas.height);
+              // context.drawImage(frontImage, 0, 0, canvas.width, canvas.height);
+            }
+
+            function hitImage(x, y) {
+              return (x > maskItemX && x < maskItemX + frontImage.width && y > maskItemY && y < maskItemY + frontImage.height);
+            }
+
+            function handleMouseDown(e) {
+              canMouseX = parseInt(e.gesture.center.pageX - offsetX);
+              canMouseY = parseInt(e.gesture.center.pageY - offsetY);
+              // set the drag flag
+              isDragging = hitImage(canMouseX, canMouseY);
+            }
+
+            function handleMouseUp(e) {
+              // canMouseX = parseInt(e.gesture.center.pageX - offsetX);
+              // canMouseY = parseInt(e.gesture.center.pageY - offsetY);
+              // clear the drag flag
+              isDragging = false;
+            }
+
+            function handleMouseOut(e) {
+              handleMouseUp(e);
+              // canMouseX = parseInt(e.gesture.center.pageX - offsetX);
+              // canMouseY = parseInt(e.gesture.center.pageY - offsetY);
+              // user has left the canvas, so clear the drag flag
+              //isDragging=false;
+            }
+
+            function handleMouseMove(e) {
+              // if the drag flag is set, clear the canvas and draw the image
+              if (isDragging) {
+
+                imageClick = false;
+
+                mouseX = parseInt(e.gesture.center.pageX - offsetX);
+                mouseY = parseInt(e.gesture.center.pageY - offsetY);
+
+                // move the image by the amount of the latest drag
+                var dx = mouseX - canMouseX;
+                var dy = mouseY - canMouseY;
+                maskItemX += dx;
+                maskItemY += dy;
+                // reset the startXY for next time
+                canMouseX = mouseX;
+                canMouseY = mouseY;
+
+                start();
+
+                // context.clearRect(0, 0, canvas.width, canvas.height);
+                /*
+                context.putImageData(frontImage, canvas.width, canvas.height);
+                context.drawImage(frontImage, canMouseX - 128 / 2, canMouseY - 120 / 2, 128, 120);
+                */
+              }
+            }
+
+            $scope.onTouch = function(e) {
+              console.log('Touch called inside');
+              handleMouseDown(e);
+            };
+
+            $scope.onRelease = function(e) {
+              console.log('Release called inside');
+              handleMouseUp(e);
+            };
+
+            $scope.onDrag = function(e) {
+              console.log('Drag called inside');
+              handleMouseMove(e);
+            };
           },
           function(err) {
             console.log(err);

@@ -119,7 +119,8 @@ gulp.task('templatecache', function (done) {
   gulp.src(paths.source_files_folder + '/templates/**/*.html')
     .pipe(templateCache({
       standalone: true, transformUrl: function (url) {
-        return url.replace("views/", '').replace("components/", "")
+        // return url.replace("views/", '').replace("components/", "");
+        return url.split('\\')[1];
       }
     }))
     .pipe(gulp.dest(paths.source_files_folder + '/js/'))
@@ -136,7 +137,7 @@ gulp.task('ng_annotate', function (done) {
 gulp.task('combine-uglify', function (done) {
   gulp.src(['./source_project/js/*.js', '!./www/js/main.min.js'])
     .pipe(concat("main.min.js"))
-    //.pipe(uglify({mangle:true}))
+    .pipe(uglify({mangle:true}))
     .pipe(gulp.dest('./www/js/'))
     .on('end', done);
 });
