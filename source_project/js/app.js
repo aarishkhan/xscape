@@ -102,6 +102,7 @@ angular.module ('starter', ['ionic', 'app.controllers', 'app.directives','templa
       .state('selfie',{
         url        : '/app/selfie',
         templateUrl: 'selfie.html',
+        controller : 'SelfieController'
 
       })
       .state('advent',{
@@ -118,9 +119,8 @@ angular.module ('starter', ['ionic', 'app.controllers', 'app.directives','templa
       })
       .state('ride',{
         url        : '/app/ride',
-        templateUrl: 'ride.html',
-
-      })
+        templateUrl: 'ride.html'
+      });
 
     // if none of the above states are matched, use this as the fallback
     $urlRouterProvider.otherwise ('/app/santa');

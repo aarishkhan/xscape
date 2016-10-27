@@ -2,110 +2,150 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bcd177e6-7bea-48ad-aadc-e34a4f5b21c5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/bow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_10.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_10large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_11.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_11large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_12.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_12large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_13.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_13large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_14.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_14large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_15.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_15large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_16.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_16large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_17.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_17large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_18.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_18large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_19.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_19large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_1large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_20large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_21large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_22large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_23large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_24large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_2large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_3large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_4large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_5large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_6large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_7large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_8large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_9.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/box_9large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/button_1selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/button_1unselected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/button_2selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/button_2unselected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/button_3selected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/button_3unselected.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/upper_menubar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/advent_icon.png" afterPath="$PROJECT_DIR$/images/advent_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/background.png" afterPath="$PROJECT_DIR$/images/background.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/beads.png" afterPath="$PROJECT_DIR$/images/beads.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/enter_now.png" afterPath="$PROJECT_DIR$/images/enter_now.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/faq_icon.png" afterPath="$PROJECT_DIR$/images/faq_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/find_usicon.png" afterPath="$PROJECT_DIR$/images/find_usicon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/flakes.png" afterPath="$PROJECT_DIR$/images/flakes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/footer-background-repeat.png" afterPath="$PROJECT_DIR$/images/footer-background-repeat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/large_button.png" afterPath="$PROJECT_DIR$/images/large_button.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/meet_santaicon.png" afterPath="$PROJECT_DIR$/images/meet_santaicon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/menu_back.png" afterPath="$PROJECT_DIR$/images/menu_back.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/menu_forward.png" afterPath="$PROJECT_DIR$/images/menu_forward.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/pay_withcard.png" afterPath="$PROJECT_DIR$/images/pay_withcard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/santa_selfieicon.png" afterPath="$PROJECT_DIR$/images/santa_selfieicon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/select_date.png" afterPath="$PROJECT_DIR$/images/select_date.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sleigh_rideicon.png" afterPath="$PROJECT_DIR$/images/sleigh_rideicon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/text_divider.png" afterPath="$PROJECT_DIR$/images/text_divider.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/view_mybookings.png" afterPath="$PROJECT_DIR$/images/view_mybookings.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/win_icon.png" afterPath="$PROJECT_DIR$/images/win_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/win_image.png" afterPath="$PROJECT_DIR$/images/win_image.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/advent_icon.png" afterPath="$PROJECT_DIR$/www/img/advent_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/background.png" afterPath="$PROJECT_DIR$/www/img/background.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/beads.png" afterPath="$PROJECT_DIR$/www/img/beads.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/enter_now.png" afterPath="$PROJECT_DIR$/www/img/enter_now.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/faq_icon.png" afterPath="$PROJECT_DIR$/www/img/faq_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/find_usicon.png" afterPath="$PROJECT_DIR$/www/img/find_usicon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/flakes.png" afterPath="$PROJECT_DIR$/www/img/flakes.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/footer-background-repeat.png" afterPath="$PROJECT_DIR$/www/img/footer-background-repeat.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/large_button.png" afterPath="$PROJECT_DIR$/www/img/large_button.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/meet_santaicon.png" afterPath="$PROJECT_DIR$/www/img/meet_santaicon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/menu_back.png" afterPath="$PROJECT_DIR$/www/img/menu_back.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/menu_forward.png" afterPath="$PROJECT_DIR$/www/img/menu_forward.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/pay_withcard.png" afterPath="$PROJECT_DIR$/www/img/pay_withcard.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/santa_selfieicon.png" afterPath="$PROJECT_DIR$/www/img/santa_selfieicon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/select_date.png" afterPath="$PROJECT_DIR$/www/img/select_date.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/sleigh_rideicon.png" afterPath="$PROJECT_DIR$/www/img/sleigh_rideicon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/text_divider.png" afterPath="$PROJECT_DIR$/www/img/text_divider.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/view_mybookings.png" afterPath="$PROJECT_DIR$/www/img/view_mybookings.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/win_icon.png" afterPath="$PROJECT_DIR$/www/img/win_icon.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/img/win_image.png" afterPath="$PROJECT_DIR$/www/img/win_image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-touch/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-touch/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-touch/angular-touch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-touch/angular-touch.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-touch/angular-touch.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-touch/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-touch/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/angular-touch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/AUTHORS.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/dist/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/dist/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/dist/jquery.slim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/dist/jquery.slim.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/dist/jquery.slim.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/external/sizzle/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/external/sizzle/dist/sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/external/sizzle/dist/sizzle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/external/sizzle/dist/sizzle.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/.eslintrc.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/ajax/jsonp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/ajax/load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/ajax/parseXML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/ajax/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/ajax/var/location.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/ajax/var/nonce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/ajax/var/rquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/ajax/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/attributes/attr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/attributes/classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/attributes/prop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/attributes/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/attributes/val.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/core/DOMEval.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/core/access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/core/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/core/parseHTML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/core/ready-no-deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/core/ready.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/core/readyException.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/core/stripAndCollapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/core/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/core/var/rsingleTag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/css/addGetHookIf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/css/adjustCSS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/css/curCSS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/css/showHide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/css/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/css/var/cssExpand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/css/var/getStyles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/css/var/isHiddenWithinTree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/css/var/rmargin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/css/var/rnumnonpx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/css/var/swap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/data/Data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/data/var/acceptData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/data/var/dataPriv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/data/var/dataUser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/deferred/exceptionHook.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/dimensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/effects/Tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/effects/animatedSelector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/event/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/event/alias.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/event/focusin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/event/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/event/trigger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/exports/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/exports/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/manipulation/_evalUrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/manipulation/buildFragment.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/manipulation/getAll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/manipulation/setGlobalEval.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/manipulation/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/manipulation/var/rcheckableType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/manipulation/var/rscriptType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/manipulation/var/rtagName.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/manipulation/wrapMap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/queue/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/selector-native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/selector-sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/traversing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/traversing/findFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/traversing/var/dir.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/traversing/var/rneedsContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/traversing/var/siblings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/ObjectFunctionString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/arr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/class2type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/document.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/documentElement.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/fnToString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/getProto.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/hasOwn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/indexOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/pnum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/push.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/rcssNum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/rnothtmlwhite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/slice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/var/toString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/jquery/src/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/dist/ng-cordova-mocks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/dist/ng-cordova-mocks.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/dist/ng-cordova.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/dist/ng-cordova.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/lib/ngCordova/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/.tinypng-sigs" afterPath="$PROJECT_DIR$/images/.tinypng-sigs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/style/common.scss" afterPath="$PROJECT_DIR$/scss/style/common.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="$PROJECT_DIR$/gulpfile.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source_project/js/app.js" afterPath="$PROJECT_DIR$/source_project/js/app.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source_project/js/controllers.js" afterPath="$PROJECT_DIR$/source_project/js/controllers.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source_project/js/templates.js" afterPath="$PROJECT_DIR$/source_project/js/templates.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/css/style.css" afterPath="$PROJECT_DIR$/www/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source_project/templates/views/selfie.html" afterPath="$PROJECT_DIR$/source_project/templates/views/selfie.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/index.html" afterPath="$PROJECT_DIR$/www/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/www/js/main.min.js" afterPath="$PROJECT_DIR$/www/js/main.min.js" />
     </list>
     <ignored path="christmasApp.iws" />
@@ -130,8 +170,8 @@
       <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source_project/js/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="45" column="67" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+            <state relative-caret-position="20">
+              <caret line="1" column="96" selection-start-line="1" selection-start-column="96" selection-end-line="1" selection-end-column="96" />
               <folding />
             </state>
           </provider>
@@ -140,35 +180,48 @@
       <file leaf-file-name="controllers.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source_project/js/controllers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+            <state relative-caret-position="-220">
+              <caret line="156" column="47" selection-start-line="156" selection-start-column="47" selection-end-line="156" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="background.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/images/background.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="meet-santa.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source_project/templates/views/meet-santa.html">
+      <file leaf-file-name="selfie.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/source_project/templates/views/selfie.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="157" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="157" />
+            <state relative-caret-position="180">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config.xml">
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scss/style/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
+            <state relative-caret-position="100">
+              <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gulpfile.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="502">
+              <caret line="142" column="3" selection-start-line="142" selection-start-column="3" selection-end-line="142" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.min.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/js/main.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -212,39 +265,39 @@
         <option value="$PROJECT_DIR$/www/templates/views/win-confirm-booking.html" />
         <option value="$PROJECT_DIR$/www/templates/views/win.html" />
         <option value="$PROJECT_DIR$/www/dist_js/app.js" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/www/dist_js/main.min.js" />
         <option value="$PROJECT_DIR$/www/js/templates.js" />
         <option value="$PROJECT_DIR$/www/js/directives.js" />
         <option value="$PROJECT_DIR$/gruntfile.js" />
         <option value="$PROJECT_DIR$/www/js/app.js" />
         <option value="$PROJECT_DIR$/www/js/controllers.js" />
-        <option value="$PROJECT_DIR$/www/js/main.min.js" />
-        <option value="$PROJECT_DIR$/www/css/style.css" />
-        <option value="$PROJECT_DIR$/gulpfile.js" />
         <option value="$PROJECT_DIR$/scss/style/style.scss" />
         <option value="$PROJECT_DIR$/scss/style/views.scss" />
         <option value="$PROJECT_DIR$/source_project/templates/views/win.html" />
-        <option value="$PROJECT_DIR$/www/index.html" />
         <option value="$PROJECT_DIR$/source_project/templates/views/advent.html" />
         <option value="$PROJECT_DIR$/source_project/templates/views/advent-date.html" />
         <option value="$PROJECT_DIR$/source_project/templates/views/faq.html" />
         <option value="$PROJECT_DIR$/source_project/templates/views/find-us.html" />
         <option value="$PROJECT_DIR$/source_project/templates/views/ride.html" />
-        <option value="$PROJECT_DIR$/source_project/templates/views/selfie.html" />
         <option value="$PROJECT_DIR$/source_project/templates/views/win-confirm-booking.html" />
         <option value="$PROJECT_DIR$/source_project/templates/views/win-my-bookings.html" />
         <option value="$PROJECT_DIR$/source_project/templates/views/win-select-time.html" />
         <option value="$PROJECT_DIR$/scss/style/common.scss" />
-        <option value="$PROJECT_DIR$/source_project/js/app.js" />
         <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/source_project/templates/views/meet-santa.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/www/css/style.css" />
+        <option value="$PROJECT_DIR$/source_project/templates/views/selfie.html" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+        <option value="$PROJECT_DIR$/source_project/js/app.js" />
+        <option value="$PROJECT_DIR$/www/js/main.min.js" />
         <option value="$PROJECT_DIR$/source_project/js/controllers.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" />
-  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <gulpfiles>
@@ -252,34 +305,7 @@
         <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
         <tasks>
           <GulpTaskState>
-            <task-name>combine-css</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <task-name>combine-uglify</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <dependencies>
-              <dependency value="templatecache" />
-              <dependency value="ng_annotate" />
-              <dependency value="useref" />
-              <dependency value="combine-js" />
-            </dependencies>
-            <task-name>default</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <task-name>git-check</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <dependencies>
-              <dependency value="git-check" />
-            </dependencies>
-            <task-name>install</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <task-name>ng_annotate</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <task-name>package-for-build</task-name>
+            <task-name>tinypng</task-name>
           </GulpTaskState>
           <GulpTaskState>
             <task-name>sass</task-name>
@@ -288,16 +314,43 @@
             <task-name>style-sass</task-name>
           </GulpTaskState>
           <GulpTaskState>
+            <task-name>combine-css</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>watch</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <dependencies>
+              <dependency value="git-check" />
+            </dependencies>
+            <task-name>install</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>git-check</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
             <task-name>templatecache</task-name>
           </GulpTaskState>
           <GulpTaskState>
-            <task-name>tinypng</task-name>
+            <task-name>ng_annotate</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>combine-uglify</task-name>
           </GulpTaskState>
           <GulpTaskState>
             <task-name>useref</task-name>
           </GulpTaskState>
           <GulpTaskState>
-            <task-name>watch</task-name>
+            <task-name>default</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>watch-templates</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>watch-js</task-name>
+          </GulpTaskState>
+          <GulpTaskState>
+            <task-name>watch-style-sass</task-name>
           </GulpTaskState>
           <GulpTaskState>
             <dependencies>
@@ -308,23 +361,23 @@
             <task-name>watch-dev</task-name>
           </GulpTaskState>
           <GulpTaskState>
-            <task-name>watch-js</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <task-name>watch-style-sass</task-name>
-          </GulpTaskState>
-          <GulpTaskState>
-            <task-name>watch-templates</task-name>
+            <dependencies>
+              <dependency value="templatecache" />
+              <dependency value="combine-uglify" />
+              <dependency value="style-sass" />
+            </dependencies>
+            <task-name>package-for-build</task-name>
           </GulpTaskState>
         </tasks>
       </GulpfileState>
     </gulpfiles>
+    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="17" />
-    <option name="y" value="23" />
-    <option name="width" value="1253" />
-    <option name="height" value="725" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -352,6 +405,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -366,7 +420,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="christmasApp" />
+              <option name="myItemId" value="xscape" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -376,7 +430,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="christmasApp" />
+              <option name="myItemId" value="xscape" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -390,7 +444,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="christmasApp" />
+              <option name="myItemId" value="xscape" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -408,7 +462,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="christmasApp" />
+              <option name="myItemId" value="xscape" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -416,27 +470,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="christmasApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="christmasApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -456,6 +495,12 @@
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/aarishkhan/upwork-messenger.git" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www" />
+      <recent name="$PROJECT_DIR$/www/css" />
+      <recent name="$PROJECT_DIR$/scss/style" />
+      <recent name="$PROJECT_DIR$/www/templates/views" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/www/img" />
       <recent name="$PROJECT_DIR$/images_1" />
@@ -463,14 +508,19 @@
       <recent name="$PROJECT_DIR$/source_project" />
       <recent name="$PROJECT_DIR$/www/js" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/www" />
-      <recent name="$PROJECT_DIR$/www/css" />
-      <recent name="$PROJECT_DIR$/scss/style" />
-      <recent name="$PROJECT_DIR$/www/templates/views" />
-    </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -496,7 +546,7 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
-      <node-interpreter>project</node-interpreter>
+      <node-interpreter>C:/Program Files/nodejs/node</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
@@ -524,6 +574,44 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <configuration default="false" name="templatecache" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>C:/Program Files/nodejs/node</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>templatecache</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="combine-uglify" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>C:/Program Files/nodejs/node</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>combine-uglify</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="style-sass" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>C:/Program Files/nodejs/node</node-interpreter>
+      <node-options />
+      <gulpfile>$PROJECT_DIR$/gulpfile.js</gulpfile>
+      <tasks>
+        <task>style-sass</task>
+      </tasks>
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Gulp.js.templatecache" />
+      <item index="1" class="java.lang.String" itemvalue="Gulp.js.combine-uglify" />
+      <item index="2" class="java.lang.String" itemvalue="Gulp.js.style-sass" />
+    </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -545,25 +633,27 @@
       <workItem from="1474529467964" duration="9962000" />
       <workItem from="1475168495530" duration="3232000" />
       <workItem from="1475325533510" duration="1073000" />
+      <workItem from="1477036938499" duration="13780000" />
+      <workItem from="1477293871489" duration="22670000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133537000" />
+    <option name="totallyTimeSpent" value="169987000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="17" y="23" width="1253" height="725" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30357143" sideWeight="0.4425428" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30357143" sideWeight="0.5574572" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21888727" sideWeight="0.38507462" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21888727" sideWeight="0.6149254" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.51866883" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32840723" sideWeight="0.47483766" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19552238" sideWeight="0.47483766" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32840723" sideWeight="0.52516234" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283582" sideWeight="0.52516234" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -587,57 +677,19 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/source_project/controllers.js" />
-    <entry file="file://$PROJECT_DIR$/gruntfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/app.js" />
-    <entry file="file://$PROJECT_DIR$/www/js/controllers.js" />
     <entry file="file://$PROJECT_DIR$/www/js/templates.js" />
     <entry file="file://$PROJECT_DIR$/www/js/services.js" />
     <entry file="file://$PROJECT_DIR$/www/js/directives.js" />
-    <entry file="file://$PROJECT_DIR$/ionic.config.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/www/lib/angular-pickadate/index" />
     <entry file="file://$PROJECT_DIR$/www/lib/angular-pickadate/src/angular-pickadate.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
           <caret line="197" column="79" selection-start-line="197" selection-start-column="79" selection-end-line="197" selection-end-column="79" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source_project/js/directives.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="14" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source_project/templates/components/horizontalScrollFooter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -647,27 +699,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/www/img/upper_menubar.png" />
-    <entry file="file://$PROJECT_DIR$/www/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="87" column="47" selection-start-line="87" selection-start-column="47" selection-end-line="87" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/js/main.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="140" column="33" selection-start-line="140" selection-start-column="33" selection-end-line="140" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/ionic.app.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -693,28 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/style/style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source_project/js/templates.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -753,13 +762,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="17" column="67" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source_project/templates/views/advent.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -795,38 +797,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source_project/templates/views/selfie.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="46" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source_project/templates/views/win.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source_project/templates/views/win-confirm-booking.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="53" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source_project/templates/views/win-my-bookings.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="47" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source_project/templates/views/win-select-time.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
         </state>
       </provider>
     </entry>
@@ -848,20 +822,63 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2115">
           <caret line="160" column="18" selection-start-line="160" selection-start-column="18" selection-end-line="160" selection-end-column="18" />
-          <folding>
-            <element signature="e#59#98#0" expanded="false" />
-            <element signature="e#116#162#0" expanded="false" />
-            <element signature="e#191#209#0" expanded="false" />
-            <element signature="e#229#247#0" expanded="false" />
-            <element signature="e#267#285#0" expanded="false" />
-            <element signature="e#306#325#0" expanded="false" />
-            <element signature="e#345#363#0" expanded="false" />
-            <element signature="e#2221#2256#0" expanded="false" />
-            <element signature="e#3146#3165#0" expanded="false" />
-            <element signature="e#3181#3410#0" expanded="false" />
-            <element signature="e#3430#3597#0" expanded="false" />
-            <element signature="e#4167#4198#0" expanded="false" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/background.png" />
+    <entry file="file://$PROJECT_DIR$/www/lib/ionic-ion-imageCacheFactory/README.md">
+      <provider editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="MarkdownFxPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source_project/templates/views/win.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="40" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source_project/templates/views/win-select-time.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="52" selection-start-line="1" selection-start-column="52" selection-end-line="1" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source_project/js/directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source_project/js/templates.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="85" selection-start-line="7" selection-start-column="85" selection-end-line="7" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source_project/templates/components/horizontalScrollFooter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source_project/templates/views/win-confirm-booking.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="53" selection-start-line="1" selection-start-column="53" selection-end-line="1" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -875,31 +892,123 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source_project/templates/views/meet-santa.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="80">
           <caret line="4" column="157" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="157" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ionic.config.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/style/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/ionic/js/ionic.bundle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="2327" column="25" selection-start-line="2327" selection-start-column="25" selection-end-line="2327" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/lib/angular/angular.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source_project/js/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="45" column="67" selection-start-line="45" selection-start-column="67" selection-end-line="45" selection-end-column="67" />
+        <state relative-caret-position="20">
+          <caret line="1" column="96" selection-start-line="1" selection-start-column="96" selection-end-line="1" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/source_project/js/controllers.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="56" column="9" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
+        <state relative-caret-position="-220">
+          <caret line="156" column="47" selection-start-line="156" selection-start-column="47" selection-end-line="156" selection-end-column="47" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/background.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/www/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="497">
+          <caret line="569" column="0" selection-start-line="569" selection-start-column="0" selection-end-line="569" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/source_project/templates/views/selfie.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="142" column="3" selection-start-line="142" selection-start-column="3" selection-end-line="142" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/main.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
